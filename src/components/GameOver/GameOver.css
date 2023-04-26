@@ -1,0 +1,14 @@
+
+.gameOver h1{
+    font-size: 3.5em;
+}
+
+.gameOver p{
+    font-size: 20px;
+}
+
+.gameOver span{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ecfa00;
+}
